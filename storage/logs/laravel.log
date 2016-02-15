@@ -1,0 +1,3 @@
+[2016-02-14 19:28:02] local.ERROR: exception 'Symfony\Component\Debug\Exception\FatalErrorException' with message 'syntax error, unexpected ''ratchet-init);' (T_ENCAPSED_AND_WHITESPACE)' in C:\xampp\htdocs\init-quickstart\app\Http\Controllers\RatchetView.php:20
+Stack trace:
+#0 {main}  
